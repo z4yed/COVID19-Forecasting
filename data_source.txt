@@ -1,0 +1,2 @@
+https://github.com/datasets/covid-19/blob/main/data/time-series-19-covid-combined.csv
+https://blog.exploratory.io/an-introduction-to-time-series-forecasting-with-prophet-package-in-exploratory-129ed0c12112
